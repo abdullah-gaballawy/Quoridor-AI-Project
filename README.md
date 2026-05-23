@@ -16,6 +16,13 @@ The project combines complete 2-player Quoridor gameplay, a cinematic graphical 
 
 ---
 
+## GitHub Repository
+
+
+**GitHub Repository Link:** `https://github.com/abdullah-gaballawy/Quoridor-AI-Project`
+
+---
+
 ## Demo Video
 
 
